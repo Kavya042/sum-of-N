@@ -20,3 +20,4 @@ p=(int*)calloc(n,size of (int));
 done my changes
 
 
+final copy
