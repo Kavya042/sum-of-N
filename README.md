@@ -15,3 +15,5 @@ for(i=0;i<n;i++)
 sum=sum+*(p+i);
 printf("sum=%d:,sum);
 }
+
+
