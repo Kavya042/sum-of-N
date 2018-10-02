@@ -16,4 +16,6 @@ sum=sum+*(p+i);
 printf("sum=%d:,sum);
 }
 
+p=(int*)calloc(n,size of (int));
+
 
