@@ -1,3 +1,3 @@
-# sum-of-N numbers Using Dynamic Memory Allocation in C
+# Sum-Of-N Numbers Using Dynamic Memory Allocation in C
 
 
